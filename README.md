@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @cassietaguibao
-- 👀 I’m interested in sewing, science, and parenting
-- 🌱 I’m currently learning how to write JSON code, scrape data, and launch a WebApp on AWS...
-- 🌱 Basically, I'm constantly learning about what else I should learn about.
-- 💞️ I’m looking to collaborate on WebApp development
+- 👀 I’m interested in data analytics for professional development, sewing for relief, and being the best parent I can be.
+- 🌱 I’m currently self-learning Excel, SQL, and PowerBI. Once I feel confident, I aim to apply to a Masters in Analytics program... preferrable Georgia Tech's OMSA.
+- 💞️ I’m looking for study buddies, mentors, and... a job. 
 - 📫 How to reach me... let's figure that out later.
 
 <!---
